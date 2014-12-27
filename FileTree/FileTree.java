@@ -9,7 +9,7 @@ import javax.swing.JTree;
  * A file browsing JTree with lazy model created dynamically 
  * from a filesystem as you interact with the tree
  * <p>
- * @author Michał Szwaczko <mikey@wirelabs.net>
+ * @author Michał Szwaczko 
  * 
  * 
  */
